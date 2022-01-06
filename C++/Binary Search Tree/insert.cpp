@@ -35,6 +35,7 @@ class binarySearchTree{
         
 };
 
+/* - - - main function - - - */
 int main(){
     binarySearchTree bt;
     vector<int> arr = {25, 15, 50, 10, 22, 35, 70, 4, 12, 18, 24, 31, 44, 66, 90};
